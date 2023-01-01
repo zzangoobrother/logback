@@ -1,0 +1,2 @@
+#logback.classic pattern: [WARN] [%-5level] %d[yyyy-MM-dd HH:mm:ss] [%thread] [%logger{40}:%line] - %msg%n
+[WARN] [WARN ] 2022-12-31 17:47:58,926[yyyy-MM-dd HH:mm:ss] [http-nio-8080-exec-1] [SQL_LOG2:18] - log --> warn
